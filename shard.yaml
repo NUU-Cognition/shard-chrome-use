@@ -1,0 +1,8 @@
+shard-spec: "0.2.0"
+version: "0.1.0"
+name: Chrome Use
+shorthand: cu
+description: Drive the operator's real, already-signed-in Chrome with the chrome-use CLI — one browser session per Orbh session, shared with the human at the keyboard
+dependencies:
+  - source: NUU-Cognition/shard-flint
+setup: local
