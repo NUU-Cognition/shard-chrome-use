@@ -1,5 +1,9 @@
 shard-spec: "0.2.0"
-version: "0.1.1"
+id: bc6640af-afc0-441c-bd27-7aa235d90f68
+org: nuucognition
+source:
+  id: 02fe99db-0f59-4693-9b55-61a92dab4d34
+version: "0.1.2"
 name: Chrome Use
 shorthand: cu
 description: Drive the operator's real, already-signed-in Chrome with the chrome-use CLI — one browser session per Orbh session, shared with the human at the keyboard
